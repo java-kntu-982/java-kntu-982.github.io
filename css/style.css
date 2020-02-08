@@ -1,5 +1,5 @@
 body {
-    background-color: #aaf8f8;
+    background-color: #212125;
     padding-top: 5rem;
 }
   .starter-template {
@@ -15,15 +15,21 @@ body {
   -ms-user-select: none;
   user-select: none;
 }
+.header-color{
+  background-color: #a3de83;
+}
 
 .custom-color{
 
-  background-color: #6078ea;
+  background-color: #239d60;
 
 }
+/* .show{
+  background-color: #212125;
+} */
 
 .custom-text{
-  color: azure;
+  color: #f7f39a;
 }
 
 @media (min-width: 768px) {
