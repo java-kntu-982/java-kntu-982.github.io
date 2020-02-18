@@ -1,8 +1,9 @@
 body {
     background-color: #212125;
     padding-top: 5rem;
-}
-  .starter-template {
+    font-family: 'Samim', sans-serif !important;
+  }
+.starter-template {
     padding: 3rem 1.5rem;
     text-align: center;
 }
@@ -24,9 +25,10 @@ body {
   background-color: #239d60;
 
 }
-/* .show{
+.menu-icon{
   background-color: #212125;
-} */
+}
+
 
 .custom-text{
   color: #f7f39a;
@@ -43,6 +45,14 @@ a{
 .hide-scroll{
   overflow: scroll;
   overflow-y: hidden;
+}
+
+.ltor{
+  text-align: left !important;
+}
+
+li {
+  list-style-type: none;
 }
 
 @media (min-width: 768px) {
